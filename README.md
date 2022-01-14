@@ -5,4 +5,5 @@ Here are some of my example plots:
 
 
 
-<img src="https://user-images.githubusercontent.com/88938223/129901354-1b5820e7-1d83-4896-a310-b962b9abdd8f.png" width="500">
+<img src="https://github.com/mfrankz/tidy-tuesday/blob/main/2021_Wk29_Scooby/scooby_arrests.png" width="500">
+
